@@ -1,16 +1,31 @@
-# asmaul_husna_app
+#   Asmaul Husna Flutter App
 
-A new Flutter project.
+A Flutter application that beautifully displays the **99 Names of Allah (Asmaul Husna)**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Overview
 
-A few resources to get you started if this is your first Flutter project:
+The app dynamically loads the 99 Names of Allah from a local JSON file (`asmaul_husna.json`) and displays them in a clean, scrollable UI.  
+Each entry includes:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Arabic name  
+- English transliteration  
+- English meaning  
+- Placeholder fields for Malay and Tamil translations (to be completed by translators)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+##  Features
+
+ Displays all 99 Names of Allah  
+ -Data loaded dynamically from JSON  
+ -Responsive and scrollable list layout  
+ -Clean Material UI design  
+ -Ready for multilingual support
+ -Runs on Android and Web
+
+---
+
+##  Project Structure
+
