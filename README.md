@@ -24,6 +24,7 @@ Each entry includes:
  -Clean Material UI design  
  -Ready for multilingual support
  -Runs on Android and Web
+ -Added tts
 
 ---
 
